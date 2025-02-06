@@ -6,7 +6,9 @@ Hola soy Dani, aprendiz de Data Scientist, Machine Learning y Data Analyst.
 
 He estado formandome desde 2024 en Python, SQL, PowerBI, AWS, Google Cloud entre otras herramientas y lenguajes.
 
-- EDA 
+- EDA
+- Modelos de predicción con ML
+- 
 <!--
 **danielsmdev/danielsmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
