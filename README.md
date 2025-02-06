@@ -1,5 +1,7 @@
 ## Aprendiz de DataScientist
 
+![imagen de cabecera](https://github.com/danielsmdev/images/blob/main/Daniel%20S%C3%A1nchez.jpg?raw=true)
+
 <!--
 **danielsmdev/danielsmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
